@@ -1,5 +1,6 @@
 # Image-segmentation-Task
-整理 2023/1/17
+整理 2023/4/17
+实现对于一个有数字和字母的图像进行预处理和图像转换，之后进行分割操作，分割后的结果在报告中呈现
 Author: SONG JIAXUAN  XUE HAOYAN  ZHANG ZIHAO
 
 Task:
